@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404564435916",
+    "project_id": "clientes-256e4",
+    "storage_bucket": "clientes-256e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404564435916:android:12bfd81c8f9223c260f369",
+        "android_client_info": {
+          "package_name": "br.com.etec.zl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVzcjLyibct6vNDIr1-PDbVQ0JNxNhLFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404564435916:android:cd102bff6241cab360f369",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVzcjLyibct6vNDIr1-PDbVQ0JNxNhLFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
